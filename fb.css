@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(240, 242, 245);
+}
+
+
+.heading h1{
+    display: flex;
+    color: rgb(24, 119, 242);
+    font-size: 64px;
+    margin: 190px 0px 0px 265px;
+
+}
+.heading p{
+    color: black;
+    font-size: 28px;
+    display: flex;
+    margin: 0px 795px 0px 268px;
+}
+
+
+.box1{
+    display: flex;
+    margin: -189px 280px 0px 838px;
+    padding: 18px 18px 55px;
+    height: 304px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+
+
+.box1 input{
+    width: 356px;
+    height: 46px;
+    font-size: 17px;
+}
+
+#login{
+    height: 55px;
+    width: 336px;
+    background-color: rgb(24, 119, 242);
+    color: white;
+    font-size: 18px;
+
+}
+
+#green{
+    height: 55px;
+    width: 215px;
+    background-color: rgb(54, 164, 32);
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 66px;
+    margin-top: 14px;
+}
+
+.box1 a{
+    font-size: 17px;
+    margin-left: 105px;
+
+}
+
+.box1 hr{
+    margin-top: 20px;
+}
+
+.line{
+    display: flex;
+    margin: 10px 0px 0px 890px;
+    font-size: 17px;
+
+}
